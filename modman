@@ -1,0 +1,7 @@
+# Contacts Form Captcha (https://github.com/olegkoval/magento-contacts_form_captcha)
+app/code/community/OlegKoval/ContactsFormCaptcha		app/code/community/OlegKoval/ContactsFormCaptcha
+app/design/frontend/base/default/template/contactsformcaptcha	app/design/frontend/base/default/template/contactsformcaptcha
+app/design/frontend/base/default/layout/contactsformcaptcha.xml	app/design/frontend/base/default/layout/contactsformcaptcha.xml
+app/etc/modules/OlegKoval_ContactsFormCaptcha.xml		app/etc/modules/OlegKoval_ContactsFormCaptcha.xml
+app/locale/en_US/OlegKoval_ContactsFormCaptcha.csv		app/locale/en_US/OlegKoval_ContactsFormCaptcha.csv
+lib/reCaptcha							lib/reCaptcha
